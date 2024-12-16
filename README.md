@@ -16,11 +16,6 @@ Responsive for all devices, built using HTML, CSS, and JavaScript.
 ####
 This project is based on how an effective travel website will make us feel. It is based on a travelling website with fully featured functions that will activate the travelling bug with vibrant imagery. This website contains highlights of some important places along with high quality photography and allow people to book their dream destination with in their budgets. It also includes full customer support, easy payment system, book as per your time choice, full virtual tour of place through different videos and images.
 
-<a href="https://pruthuvide.github.io/Travel-Lanka-Website"><strong>➥ Live Demo</strong></a>
-</div>
-
-
-
 # Features
 
 * Full featured Wishlist cart
@@ -42,13 +37,3 @@ This project is based on how an effective travel website will make us feel. It i
 * CSS
 * JavaScript
 * php
-
-
-# Team
-
-
-- [Heshan Avishka](https://github.com/HeshanAW99)
-- [Janith Disanayake](https://github.com/Janith3003)
-- [Tharusha Perera](https://github.com/tharusha1004)
-- [Yasith Perera](https://github.com/yasith299)
-
